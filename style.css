@@ -1,4 +1,25 @@
-*{ margin: 0%; padding: 0%; } body{ background: linear-gradient(to right, #000000, hsl(281, 100%, 43%)); } h1{ color: #ffffff; font-size: 30px; text-align: center; } p{ color: #ffffff; font-size: 30px; text-align: center; } .cabecalho{ background-color: black; padding: 30px; text-align: center; display: flex; } ._.jpeg{ padding: 20px; right: 0%; }
+*{
+    margin: 0%;
+    padding: 0%;
+}
 body{
-    background-image: -moz-linear-gradient(download.jpeg);
+    background: linear-gradient(to right, #000000, #98a5c9, #6a2685, #055dc2);
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+
+.cabecalho{
+    background-color: #c91414;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+   
+}
+.computador{
+    padding: 10px;
+    right: 50%;
 }
