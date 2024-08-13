@@ -1,1 +1,4 @@
 *{ margin: 0%; padding: 0%; } body{ background: linear-gradient(to right, #000000, hsl(281, 100%, 43%)); } h1{ color: #ffffff; font-size: 30px; text-align: center; } p{ color: #ffffff; font-size: 30px; text-align: center; } .cabecalho{ background-color: black; padding: 30px; text-align: center; display: flex; } ._.jpeg{ padding: 20px; right: 0%; }
+body{
+    background-image: -moz-linear-gradient(download.jpeg);
+}
